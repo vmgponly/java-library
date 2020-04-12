@@ -5,7 +5,7 @@
   <artifactId>java-webapp-library</artifactId>
   <packaging>jar</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>jenkins-Maven Webapp</name>
+  <name>Java Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
